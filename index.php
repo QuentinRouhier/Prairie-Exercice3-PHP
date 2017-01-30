@@ -12,7 +12,7 @@
 
    for($i = $min; $i <= $max; $i++) {
       if ( $i % 2 == 1 ) {
-    echo "<br/>"."$i";
+    echo "\n"."$i";
       }
   }
   ?>
